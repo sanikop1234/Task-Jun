@@ -30,7 +30,7 @@ export default function App() {
   return (
     <div>
       <header>
-        <h1>TaskMan</h1>
+        <h1>TaskManager</h1>
         <p><i>Your friendly Task Manager</i></p>
       </header>
 
